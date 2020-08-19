@@ -1,0 +1,10 @@
+# Python #
+#######################
+hello_async/__pycache__/*
+# Tool specific files #
+#######################
+# VC
+.vscode/*
+
+# virtual env..
+venv/*
